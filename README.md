@@ -1,3 +1,5 @@
+
+
 # Vehicle-Detection-and-Classification
 
 #### Problem Formulation
@@ -16,7 +18,5 @@ Classification report:
    macro avg       0.97      0.97      0.97       263
 weighted avg       0.97      0.97      0.97       263
 
-Model accuracy in percentage:0.97
-Confusion Matrix: 
- [[127   1]
- [  6 129]]
+Model accuracy in percentage: 0.97
+Confusion Matrix: ![cf](https://user-images.githubusercontent.com/13369817/123565001-bb876180-d7bb-11eb-827f-f64b353c3875.png)
